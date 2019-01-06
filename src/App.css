@@ -38,3 +38,7 @@ section {
   font-size: calc(10px + 1vmin);
   overflow: auto;
 }
+
+ul {
+  list-style: none;
+}
